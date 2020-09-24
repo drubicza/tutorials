@@ -4,6 +4,7 @@ This repository is where some of my tutorials reside. Most of the tutorials is p
 
 ## Python
 
+* [Tutorial Script Antiuncompyle6](https://github.com/drubicza/tutorials/blob/master/python/tutorial-antiuncompyle6.md)
 * [Tutorial Dekompilasi Script Key](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekompilasi_key.md)
 * [Tutorial Dekompilasi Script Enc](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekompilasi_script_enc.md)
 * [Tutorial Dekompilasi Script FFTool](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekompilasi_fftool.md)
