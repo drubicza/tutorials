@@ -14,6 +14,7 @@ This repository is where some of my tutorials reside. Most of the tutorials is p
 * [Tutorial Dekripsi Script Telemax](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekripsi_script_telemax.md)
 * [Tutorial Dekompilasi Telebot For All Clickbot Telegram](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekompilasi_telebot.md)
 * [Reversing Registrasi Script 999 Dicebot](https://github.com/drubicza/tutorials/blob/master/python/tutorial-reversing_registrasi_script_999_dicebot.md)
+* [Tutorial Backdoor Pada Script FFHax](https://github.com/drubicza/tutorials/blob/master/python/tutorial-ffhax_script_backdoor.md)
 
 
 ## [Writeup] Cyber Talents
