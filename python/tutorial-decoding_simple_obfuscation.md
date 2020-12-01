@@ -30,7 +30,7 @@ print(b64decode("#*!*!*!*#^#*! ... *#^#*!*!*!*#"))
 Setelah itu, jalankan script tersebut:
 
 ```bash
-% python3 wow.py
+% python3 bot.py
 ```
 
 Hasilnya adalah script berikut ini:
