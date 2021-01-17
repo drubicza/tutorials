@@ -2,7 +2,12 @@
 
 This repository is where some of my tutorials reside. Most of the tutorials is pretty basic, so if you are a computer wizard, please don't bother and waste your time to read it.
 
-## Python
+## Reverse Engineering (General)
+
+* [Instalasi rizin Secara Manual](https://github.com/drubicza/tutorials/blob/master/reversing/tutorial-instalasi_rizin.md)
+
+
+## Reverse Engineering (Python)
 
 * [Tutorial Script Antiuncompyle6](https://github.com/drubicza/tutorials/blob/master/python/tutorial-antiuncompyle6.md)
 * [Tutorial Dekompilasi Script Key](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekompilasi_key.md)
