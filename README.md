@@ -23,6 +23,7 @@ This repository is where some of my tutorials reside. Most of the tutorials is p
 * [Tutorial Backdoor Pada Script FFHax](https://github.com/drubicza/tutorials/blob/master/python/tutorial-ffhax_script_backdoor.md)
 * [Reverse Engineering Script NFBJoinBot](https://github.com/drubicza/tutorials/blob/master/python/tutorial-reverse_engineering_nfbjoinbot.md)
 * [Decoding Simple Obfuscation](https://github.com/drubicza/tutorials/blob/master/python/tutorial-decoding_simple_obfuscation.md)
+* [Dekripsi Script Clickbots](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekripsi_script_clickbots.md)
 
 
 ## [Writeup] Cyber Talents
