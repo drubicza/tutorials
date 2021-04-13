@@ -1,6 +1,7 @@
 
 # Dekripsi Proteksi MessPHP
 
+
 Disclaimer: Tutorial ini hanya untuk tujuan pembelajaran semata. Penulis tidak bertanggungjawab atas penggunaan maupun penyalahgunaan informasi yang terdapat pada tutorial ini.
 
 Tutorial singkat kali ini akan membahas cara melakukan dekripsi script yang diproteksi menggunakan MessPHP. Script kali ini dapat diakses pada [tautan ini](https://ghostbin.com/paste/FlW4o). Script tersebut dapat kita bagi menjadi dua bagian yaitu yang pertama merupakan script yang diproteksi mengggunakan messPHP sedangkan yang kedua memiliki tanda berikut ini:
