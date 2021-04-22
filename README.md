@@ -26,7 +26,7 @@ This repository is where some of my tutorials reside. Most of the tutorials is p
 * [Decoding Simple Obfuscation](https://github.com/drubicza/tutorials/blob/master/python/tutorial-decoding_simple_obfuscation.md)
 * [Dekripsi Script Clickbots](https://github.com/drubicza/tutorials/blob/master/python/tutorial-dekripsi_script_clickbots.md)
 * [Seputar Native Python Script](https://github.com/drubicza/tutorials/blob/master/python/tutorial-native_python_script.md)
-
+* [Mengupas Script Phishing Sederhana](https://github.com/drubicza/tutorials/blob/master/python/tutorial-mengupas_script_phising_sederhana.md)
 
 ## [Writeup] Cyber Talents
 
