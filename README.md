@@ -6,6 +6,7 @@ This repository is where some of my tutorials reside. Most of the tutorials is p
 
 * [Instalasi rizin Secara Manual](https://github.com/drubicza/tutorials/blob/master/reversing/tutorial-instalasi_rizin.md)
 * [Dekripsi Proteksi MessPHP](https://github.com/drubicza/tutorials/blob/master/reversing/tutorial-dekripsi_proteksi_messphp.md)
+* [Dekompilasi Malware AutoIt](https://github.com/drubicza/tutorials/blob/master/reversing/tutorial-dekompilasi_malware_autoit.md)
 
 
 ## Reverse Engineering (Python)
